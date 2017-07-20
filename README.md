@@ -1,5 +1,5 @@
 # kenseville.github.io
 doctype
 <html>
-<title>ShowsApp Pages</title>
+ShowsApp
 </html>
