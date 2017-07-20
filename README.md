@@ -1,2 +1,2 @@
 # kenseville.github.io
-ShowsApp Pages
+<title>ShowsApp Pages</title>
